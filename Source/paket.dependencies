@@ -1,0 +1,9 @@
+storage: none
+framework: net6.0
+source https://api.nuget.org/v3/index.json
+
+nuget MonoGame.Framework.DesktopGL
+nuget MonoGame.Content.Builder.Task
+nuget SadConsole
+nuget SadConsole.Extended
+nuget SadConsole.Host.MonoGame
