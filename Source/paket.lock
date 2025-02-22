@@ -1,27 +1,2 @@
 STORAGE: NONE
-RESTRICTION: == net6.0
-NUGET
-  remote: https://api.nuget.org/v3/index.json
-    ColorMineStandard (1.0)
-    MonoGame.Content.Builder.Task (3.8.0.1641)
-    MonoGame.Framework.DesktopGL (3.8.0.1641)
-    Newtonsoft.Json (13.0.1)
-    SadConsole (9.2.2)
-      Newtonsoft.Json (>= 13.0.1)
-      TheSadRogue.Primitives (>= 1.1.1)
-    SadConsole.Extended (9.2.1)
-      ColorMineStandard (>= 1.0)
-      SadConsole (>= 9.2.1)
-      System.Text.Encoding.CodePages (>= 5.0)
-    SadConsole.Host.MonoGame (9.2.2)
-      MonoGame.Framework.DesktopGL (>= 3.8.0.1641)
-      SadConsole (>= 9.2.2)
-      TheSadRogue.Primitives (>= 1.1.1)
-      TheSadRogue.Primitives.MonoGame (>= 1.0)
-    System.Runtime.CompilerServices.Unsafe (6.0)
-    System.Text.Encoding.CodePages (6.0)
-      System.Runtime.CompilerServices.Unsafe (>= 6.0)
-    TheSadRogue.Primitives (1.3)
-    TheSadRogue.Primitives.MonoGame (1.0.1)
-      MonoGame.Framework.DesktopGL (>= 3.8.0.1641)
-      TheSadRogue.Primitives (>= 1.2)
+RESTRICTION: == net8.0
